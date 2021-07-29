@@ -1,0 +1,27 @@
+.honda-info{
+    background-color: #264653;
+    
+}
+.bike{
+    color: #E76F51;
+
+}
+.client{
+    color: #E76F51;
+}
+.star-info{
+    color:#E76F51;
+}
+.star-info .empty{
+    color: #aeaeae;
+}
+.btn-submit{
+    background-color:#E76F51; 
+}
+.column-info img{
+width: 180px;
+height: 180px;
+}
+.model{
+    color:#E76F51;
+}
