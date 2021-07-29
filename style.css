@@ -1,6 +1,7 @@
 .honda-info{
     background-color: #264653;
-    
+    padding:9px 25px;
+ 
 }
 .bike{
     color: #E76F51;
@@ -24,4 +25,11 @@ height: 180px;
 }
 .model{
     color:#E76F51;
+}
+.frequently{
+    color: #E76F51;
+}
+.couch{
+    color: #23A6F0;
+
 }
